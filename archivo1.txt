@@ -4,7 +4,8 @@
 
 Modélame así, dame ahora tu mejor
 Pose, pose, pose
-Pose, pose, pose
+Pose, pose, pose <se eagrego esta linea por douglas para probar el conflicto pull request>
+<se eagrego esta linea por douglas para probar el conflicto pull request>
 Vivételo así, dame ahora tu mejor
 Pose, pose, pose
 Pose, pose, pose (come on)
