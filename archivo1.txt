@@ -1,4 +1,7 @@
-Prueba de archivo de texto, escribir abajo de esta linea <se esta esta linea por douglas para probar el pull request>
+
+<se eagrego esta linea por douglas para probar el conflicto pull request>
+
+
 Modélame así, dame ahora tu mejor
 Pose, pose, pose
 Pose, pose, pose
